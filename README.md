@@ -13,3 +13,5 @@ int main() {
 🛠️ Current Focus: Deep diving into Advanced DSA, Web Architecture, and Core Mathematics.
 
 🎨 Beyond the Code: Digital Art & Design.
+
+Email: aadii18112005@gmail.com
